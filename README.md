@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="neural-networks-explained-in-great-detail">Neural Networks Explained in Great Detail</h1>
 <h2 id="introduction">Introduction</h2>
 <p>Neural networks are a class of machine learning models inspired by the structure and functioning of the human brain. They are powerful algorithms capable of learning complex patterns and relationships in data. To understand neural networks better, let’s break them down into their individual parts and then explore how these components work together to create a functional network.</p>
